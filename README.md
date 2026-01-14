@@ -55,11 +55,4 @@ Todo lo que manejo, incluyendo Java y sistemas:
   <img src="https://img.shields.io/badge/Hardware-Ensamblaje-555555?style=for-the-badge&logo=intel&logoColor=white" />
 
 </div>
-
-<br/>
-
-### ⚡ Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mmirandamartinez&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmirandamartinez&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
 </div>
