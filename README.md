@@ -3,7 +3,7 @@
     <img src="https://github.com/mmirandamartinez.png" width="180" alt="Manu Miranda Avatar" style="border-radius: 50%"/>
   </a>
 
-  # ¡Ese Manu! 👋
+  # ¡Manu! 
   
   **Desarrollador Web Full Stack | Laravel, React, Java & Python**
   
@@ -20,7 +20,7 @@
 
 <br/>
 
-### 🧐 Sobre mí
+###  Sobre mí
 **Hola, soy Manuel Miranda Martínez.**
 Estudiante del Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** en el IES Fernando Aguilar Quignon (Cádiz, España).
 
@@ -29,7 +29,7 @@ Estoy en constante aprendizaje, adquiriendo nuevas habilidades para adaptarme a 
 
 ---
 
-### 🛠 Mi caja de herramientas (Stack)
+###  Mi caja de herramientas (Stack)
 Todo lo que manejo, incluyendo Java y sistemas:
 
 <div align="center">
